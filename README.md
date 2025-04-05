@@ -1,2 +1,2 @@
-# Regress-o-Linear-
+# Regresso Linear-
 Regressão Linear simples 
